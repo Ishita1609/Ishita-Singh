@@ -26,12 +26,7 @@
 - 2D statistical analysis
 - 3D statistical analysis
 - K-Means clustering
-- Elbow Method for selecting the number of clusters
-- Silhouette Score evaluation
 - Hierarchical clustering
-- Ward linkage and dendrogram analysis
-- Hierarchical clustering evaluation using Silhouette Score
-- Comparison of K-Means and Hierarchical clustering
 
 ## Project Notebook
 
