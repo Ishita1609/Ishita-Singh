@@ -28,8 +28,14 @@
 - K-Means clustering
 - Hierarchical clustering
 
+## Phase 3 Tasks Completed
+
+- Principal Component Analysis (PCA): standardization, explained variance, scree plot, loadings and dimensionality reduction
+- Simple Linear Regression (SLR): predicting the response level (`resp`) from the `Anger` score, with evaluation metrics and residual analysis
+
 ## Project Notebook
 
-The complete analysis for Phase 1 and Phase 2 is available in:
+The complete analysis for Phase 1, Phase 2 and Phase 3 is available in:
 
 `EDA_Phase1.ipynb`
+
